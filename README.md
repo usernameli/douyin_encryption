@@ -30,5 +30,5 @@
 
 
 ##代码样例
-
+* https://github.com/yuanchao1893/douyin_encryption/tree/master/example
 
