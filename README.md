@@ -1,5 +1,5 @@
 
-##douyin-encrition 是使用Java写的基于抖音Android客户端的接口签名算法
+##douyin-encryption 是使用Java写的基于抖音Android客户端的接口签名算法
 
 
 
